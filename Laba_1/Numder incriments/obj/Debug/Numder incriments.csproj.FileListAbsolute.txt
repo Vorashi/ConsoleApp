@@ -1,0 +1,7 @@
+C:\My work programm\C#\Laba_1\Numder incriments\bin\Debug\Numder incriments.exe.config
+C:\My work programm\C#\Laba_1\Numder incriments\bin\Debug\Numder incriments.exe
+C:\My work programm\C#\Laba_1\Numder incriments\bin\Debug\Numder incriments.pdb
+C:\My work programm\C#\Laba_1\Numder incriments\obj\Debug\Numder incriments.csproj.AssemblyReference.cache
+C:\My work programm\C#\Laba_1\Numder incriments\obj\Debug\Numder incriments.csproj.CoreCompileInputs.cache
+C:\My work programm\C#\Laba_1\Numder incriments\obj\Debug\Numder incriments.exe
+C:\My work programm\C#\Laba_1\Numder incriments\obj\Debug\Numder incriments.pdb

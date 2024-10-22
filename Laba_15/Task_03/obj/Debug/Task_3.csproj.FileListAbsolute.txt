@@ -1,0 +1,7 @@
+C:\My work programm\C#\Laba_15\Task_03\bin\Debug\Task_03.exe.config
+C:\My work programm\C#\Laba_15\Task_03\bin\Debug\Task_03.exe
+C:\My work programm\C#\Laba_15\Task_03\bin\Debug\Task_03.pdb
+C:\My work programm\C#\Laba_15\Task_03\obj\Debug\Task_3.csproj.AssemblyReference.cache
+C:\My work programm\C#\Laba_15\Task_03\obj\Debug\Task_3.csproj.CoreCompileInputs.cache
+C:\My work programm\C#\Laba_15\Task_03\obj\Debug\Task_03.exe
+C:\My work programm\C#\Laba_15\Task_03\obj\Debug\Task_03.pdb

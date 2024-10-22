@@ -1,0 +1,7 @@
+C:\My work programm\C#\Laba_1\BooleanType\bin\Debug\BooleanType.exe.config
+C:\My work programm\C#\Laba_1\BooleanType\bin\Debug\BooleanType.exe
+C:\My work programm\C#\Laba_1\BooleanType\bin\Debug\BooleanType.pdb
+C:\My work programm\C#\Laba_1\BooleanType\obj\Debug\BooleanType.csproj.AssemblyReference.cache
+C:\My work programm\C#\Laba_1\BooleanType\obj\Debug\BooleanType.csproj.CoreCompileInputs.cache
+C:\My work programm\C#\Laba_1\BooleanType\obj\Debug\BooleanType.exe
+C:\My work programm\C#\Laba_1\BooleanType\obj\Debug\BooleanType.pdb

@@ -1,0 +1,2 @@
+C:\My work programm\C#\Laba_2\Task_5\obj\Debug\Task_5.csproj.AssemblyReference.cache
+C:\My work programm\C#\Laba_2\Task_5\obj\Debug\Task_5.csproj.CoreCompileInputs.cache

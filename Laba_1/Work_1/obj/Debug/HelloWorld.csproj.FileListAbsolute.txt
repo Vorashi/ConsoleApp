@@ -1,0 +1,7 @@
+C:\My work programm\C#\Laba_1\Work_1\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\My work programm\C#\Laba_1\Work_1\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\My work programm\C#\Laba_1\Work_1\bin\Debug\Work_1.exe.config
+C:\My work programm\C#\Laba_1\Work_1\bin\Debug\Work_1.exe
+C:\My work programm\C#\Laba_1\Work_1\bin\Debug\Work_1.pdb
+C:\My work programm\C#\Laba_1\Work_1\obj\Debug\Work_1.exe
+C:\My work programm\C#\Laba_1\Work_1\obj\Debug\Work_1.pdb

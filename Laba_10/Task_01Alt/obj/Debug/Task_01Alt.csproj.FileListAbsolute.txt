@@ -1,0 +1,7 @@
+C:\My work programm\C#\Laba_10\Task_01Alt\bin\Debug\Task_01Alt.exe.config
+C:\My work programm\C#\Laba_10\Task_01Alt\bin\Debug\Task_01Alt.exe
+C:\My work programm\C#\Laba_10\Task_01Alt\bin\Debug\Task_01Alt.pdb
+C:\My work programm\C#\Laba_10\Task_01Alt\obj\Debug\Task_01Alt.csproj.AssemblyReference.cache
+C:\My work programm\C#\Laba_10\Task_01Alt\obj\Debug\Task_01Alt.csproj.CoreCompileInputs.cache
+C:\My work programm\C#\Laba_10\Task_01Alt\obj\Debug\Task_01Alt.exe
+C:\My work programm\C#\Laba_10\Task_01Alt\obj\Debug\Task_01Alt.pdb
